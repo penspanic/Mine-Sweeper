@@ -1,0 +1,6 @@
+D:\OneDrive\프로그래밍\Mine Sweeper\Mine Sweeper\bin\Debug\Mine Sweeper.exe.config
+D:\OneDrive\프로그래밍\Mine Sweeper\Mine Sweeper\obj\Debug\Mine Sweeper.csprojResolveAssemblyReference.cache
+D:\OneDrive\프로그래밍\Mine Sweeper\Mine Sweeper\bin\Debug\Mine Sweeper.exe
+D:\OneDrive\프로그래밍\Mine Sweeper\Mine Sweeper\bin\Debug\Mine Sweeper.pdb
+D:\OneDrive\프로그래밍\Mine Sweeper\Mine Sweeper\obj\Debug\Mine Sweeper.exe
+D:\OneDrive\프로그래밍\Mine Sweeper\Mine Sweeper\obj\Debug\Mine Sweeper.pdb
